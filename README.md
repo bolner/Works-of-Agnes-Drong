@@ -20,7 +20,7 @@ Works of Ágnes Drong - Drong Ágnes munkái
 | [bv.bas](bv.bas) | 2.5K | Percentage calculations. The 3 explicit forms of: result = base * (percent / 100)<br>Százalékszámítás. A százalékérték = alap * (százalékláb / 100) egyenlet 3 alakja. | Sep 26  1994 |
 | [egy.bas](egy.bas) | 774 | Solving linear equations.<br>Elsőfokú egyenletek megoldása. | Sep 26  1994 |
 | [fv.bas](fv.bas) | 3.4K | Drawing functions. The students had to edit line 1500 to change the function. Default is y = x.<br>Függvények ábrázolása. A diákoknak az 1500-as sort kellett módosítaniuk, hogy megváltoztassák a függvényt, ami kezdetben y = x. | Oct  6  1994 |
-| [kt.bas](kt.bas) | 33K | Area and perimeter calculation for 15 different kinds of polygons.<br>Terület és kerület számítás, 15-féle sokszögre. | Oct 10  1994 |
+| [kt.bas](kt.bas) | 33K | Area and perimeter calculation for 15 different kinds of polygons.<br>Terület- és kerületszámítás, 15-féle sokszögre. | Oct 10  1994 |
 | [lnko.bas](lnko.bas) | 12K | Prime factorization, greatest common divisor (GCD), least common multiple (LCM).<br>Prímtényezős felbontás, legnagyobb közös osztó (LNKO), legkisebb közös többszörös (LKKT). | Nov 15  1994 |
 | [pit.bas](pit.bas) | 3.8K | Pythagoras' theorem.<br>Pitagorasz tétel. | Nov 24  1994 |
 | [stul.bas](stul.bas) | 21K | 25 properties of 19 different kinds of polygons.<br>19-féle sokszög 25 tulajdonsága. | Nov 30  1994 |
